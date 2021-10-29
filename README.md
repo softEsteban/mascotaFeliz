@@ -1,1 +1,1 @@
-# Mi primer repositorio en Github, programacióon web Misión tic
+# Mi primer repositorio en Github, programación web Misión tic
